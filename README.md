@@ -2,7 +2,7 @@
 <h3 align="center">A web developer from Palestine</h3>
 
 
-- 🌱 I’m currently learning **laravel , vuejs ,nodejs,react js**
+- 🌱 I’m currently learning **angular , mongo DB ,nodejs,react js**
 
 
 - 📫 How to reach me **omabd2001@gmail.com**
