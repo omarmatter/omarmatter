@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar MAtter</h1>
+<h1 align="center">Hi 👋, I'm Omar Matter</h1>
 <h3 align="center">A web developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmatter&label=Profile%20views&color=0e75b6&style=flat" alt="omarmatter" /> </p>
