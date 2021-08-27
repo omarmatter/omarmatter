@@ -1,20 +1,71 @@
+
+
 <h1 align="center">Hi 👋, I'm Omar Matter</h1>
 <h3 align="center">A web developer from Palestine</h3>
-
+<h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmatter&label=Profile%20views&color=0e75b6&style=flat" alt="omarmatter" /> </p>
 
-
-- 🌱 I’m currently learning **angular , mongo DB ,nodejs,react js**
-
-
-- 📫 How to reach me **omabd2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar matter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omar matter" height="30" width="40" /></a>
+### Overview.
+<p>Hi! I'm Full Stack web developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple api applications to microservises systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Languages
+ * Arabic: Mother Language.
+ * Englsh: Good.
+ 
+ </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmatter&show_icons=true&theme=radical" /></p>
+
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=omarmatter)
+
+### Programing Languages
+![Laravel]( https://img.shields.io/badge/-laravel-000?&logo=laravel)
+![PHP]( https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Reacr]( https://img.shields.io/badge/-React-000?&logo=React)
+![Node]( https://img.shields.io/badge/-Node-000?&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
+![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
+
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmatter&layout=compact&theme=highcontrast" alt="M7Mansour" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=omarmatter&theme=highcontrast" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+</p>
+
+
+
+### Tools
+![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
+![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
+
+### I’m currently learning:
+<!-- ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js)  -->
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) -->
+![Micro Service](https://img.shields.io/badge/-Microservices%20Architecture-000)
+
+
+![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=omarmatter&theme=highcontrast&bg_color=000&hide_border=true)
+
+<h4 align="center">
+  <a href="https://github.com/omarmatter?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
