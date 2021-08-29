@@ -32,6 +32,8 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Mongo](https://img.shields.io/badge/-Mongo-000?&logo=MongoDB)
+![heroku](https://img.shields.io/badge/-heroku-000?&logo=heroku)
 ![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
 ![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
 
